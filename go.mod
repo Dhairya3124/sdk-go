@@ -1,4 +1,4 @@
-module github.com/lingodotdev/sdk-go
+module github.com/Dhairya3124/sdk-go
 
 go 1.24.1
 
